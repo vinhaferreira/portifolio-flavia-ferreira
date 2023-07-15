@@ -1,0 +1,17 @@
+.menu {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  text-decoration: underline;
+}
+.cabecalho__principal {
+  display: flex;
+  align-items: center;
+}
+
+.menu__list {
+  display: flex;
+}
+.menu__list__item {
+  margin: 0 0 0 15px;
+}
